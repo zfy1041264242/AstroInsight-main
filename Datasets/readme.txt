@@ -1,0 +1,1 @@
+This file contains technical entities extracted from 300,000 research papers. Note that it needs to be imported into a Neo4j database for querying and retrieval.
