@@ -17,19 +17,19 @@ model_configs = [
         "config_name": "qwen-max-2025-01-25",
         "model_type": "dashscope_chat",
         "model_name": "qwen-max",
-        "api_key": "sk-586f6f96d2704df6901e31de27fda2fe",
+        "api_key": "",
     },
     {
         "config_name": "qwen-plus",
         "model_type": "dashscope_chat",
         "model_name": "qwen-plus",
-        "api_key": "sk-586f6f96d2704df6901e31de27fda2fe",
+        "api_key": "",
     },
     {
         "config_name": "glm-4-long",
         "model_type": "openai_chat",
         "model_name": "glm-4-long",
-        "api_key": "1cf7ad6057486482907576343cdfad25.Pj3NWFDgjyjNqDVK",
+        "api_key": "",
         "client_args": {
             "base_url": "https://open.bigmodel.cn/api/paas/v4/",
         },
@@ -38,7 +38,7 @@ model_configs = [
         "config_name": "deepseek-chat",
         "model_type": "openai_chat",
         "model_name": "deepseek-chat",
-        "api_key": "sk-80cc66e836004e6ca698eb35206dd418",
+        "api_key": "",
         "client_args": {
             "base_url": "https://api.deepseek.com/v1",
         },
@@ -47,7 +47,7 @@ model_configs = [
         "config_name": "moonshot-v1-8k",
         "model_type": "openai_chat",
         "model_name": "moonshot-v1-8k",
-        "api_key": "sk-u66x82yZ6tMcjRMOwkKouZDHrhrLmLGl3ghjOlxOBUuvw6MD",
+        "api_key": "",
         "client_args": {
             "base_url": "https://api.moonshot.cn/v1",
         },
@@ -56,13 +56,13 @@ model_configs = [
         "config_name": "gemini-2.5-flash",
         "model_type": "gemini_chat",
         "model_name": "gemini-2.5-flash",
-        "api_key": "AIzaSyCRuZMYqpQZAt7wlSsqXGjXcwxUekrrH4s",
+        "api_key": "",
     },
     {
         "config_name": "hunyuan-large",
         "model_type": "openai_chat",
         "model_name": "hunyuan-large",
-        "api_key": "sk-O5wisGpuwAS6FM7ICWtOM049vWYyEGq3opa4wSf920zeimW4",
+        "api_key": "",
         "client_args": {
             "base_url": "https://api.hunyuan.cloud.tencent.com/v1",
         },
@@ -71,7 +71,7 @@ model_configs = [
     #     "config_name": "chatgpt-4o-latest",
     #     "model_type": "openai_chat",
     #     "model_name": "chatgpt-4o-latest",
-    #     "api_key": "sk-gT9nO93CQQKoNb1KTUuGIeV1b05DUkYF0ZJjngcDev12RiuY",
+    #     "api_key": "",
     #
     #     "client_args": {
     #         "base_url": "https://api.openai-proxy.org/v1/",
